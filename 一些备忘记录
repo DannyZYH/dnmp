@@ -1,0 +1,4 @@
+一些常用备忘的东西：
+
+phpmyadmin 修改myql配置的文件位置：
+/usr/src/phpmyadmin/libraries/config.default.php
