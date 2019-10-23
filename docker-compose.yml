@@ -104,8 +104,8 @@ services:
     networks:
       - default
     environment:
-      - PMA_HOST=mysql
-      - PMA_PORT=3306
+      - PMA_HOST=mysql5
+      - PMA_PORT=3305
       - TZ=$TZ
 
   phpredisadmin:
